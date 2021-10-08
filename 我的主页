@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>我的主页</title>
+  </head>
+  <body>
+  <h1>自我介绍</h1>
+  <p>我是嗨呀，一个来自河北的东北人，喜欢打游戏，运动，干饭（还有keCP），很高兴你能来我的主页。</p>
+  <h2>我的家乡</h2>
+  <p>话不多说直接上链接</p>
+  <a href="https://baike.baidu.com/item/%E7%87%95%E9%83%8A%E9%95%87/10657025>我的家乡</a>
+  <h3>我的朋友</h3>
+  <ul>
+     <li>AB
+     <li>yqh
+     <li>.......
+  </ul>
+  <h4>我最喜欢的照片</h4>
+  <img src="https://cn.bing.com/images/search?view=detailV2&ccid=qYBnsu%2bG&id=72F145CC8CB9B8268F8A7A600433CB4AC12C348A&thid=OIP.qYBnsu-GSW7BqSYN77lwqwHaEo&mediaurl=https%3a%2f%2ftse1-mm.cn.bing.net%2fth%2fid%2fR-C.a98067b2ef86496ec1a9260defb970ab%3frik%3dijQswUrLMwRgeg%26riu%3dhttp%253a%252f%252fi1.hdslb.com%252fbfs%252farchive%252f7b7232f95def9f4742c59b476016b05463b56756.jpg%26ehk%3dj32EP2W22KktrK3yx0br%252bAKVdqpENJ56yeHRKXsuZBI%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1550&expw=2480&q=%e7%a5%9e%e9%87%8c%e5%87%8c%e5%8d%8e%e5%a3%81%e7%ba%b8&simid=608014562924324376&FORM=IRPRST&ck=6DA059BACD885DB4694E95C5D084581F&selectedIndex=0&qpvt=%e7%a5%9e%e9%87%8c%e5%87%8c%e5%8d%8e%e5%a3%81%e7%ba%b8&ajaxhist=0&ajaxserp=0">
+  </body>
+</html>
